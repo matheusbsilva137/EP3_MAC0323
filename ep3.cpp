@@ -6,10 +6,10 @@
  */
 #include<stdlib.h>
 #include <iostream>
-#include "util.hpp"
 #include "regex.hpp"
 
 using namespace std;
+//inserir modo arquivo
 int main(){
     string exp, str;
     regex* expReg;
